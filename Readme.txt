@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Website for sakeenas Caafe
 
-Template Name: Maxim
-Template URL: https://bootstrapmade.com/maxim-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Contact form yet to be implemented. Only the frontend is finished.
